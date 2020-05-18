@@ -53,4 +53,24 @@ python3 manage.py runserver 0.0.0.0:8007
 
 ## System Block Diagram
 
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/system-block-diagram.png)
+
 ## Screenshots
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/log-in.png)
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/dash.png)
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/authorized.png)
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/auth-management.png)
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/after-add-auth.png)
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/footage-dash.png)
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/picture-log.png)
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/video-log.png)
+
+![alt text](https://github.com/seandroke/welcomeIn/blob/master/screenshots/settings.png)
